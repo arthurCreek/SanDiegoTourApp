@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/tan_background"
+    tools:context="com.example.android.sandiegotourapp.MainActivity">
+
+    <TextView
+        android:id="@+id/brewery"
+        style="@style/CategoryStyle"
+        android:background="@color/colorAmber"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/brewery"/>
+
+    <TextView
+        android:id="@+id/restaurant"
+        style="@style/CategoryStyle"
+        android:background="@color/colorRed"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/restaurant"/>
+
+    <TextView
+        android:id="@+id/to_do"
+        style="@style/CategoryStyle"
+        android:background="@color/colorAmber"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/to_do"/>
+
+    <TextView
+        android:id="@+id/festivals"
+        style="@style/CategoryStyle"
+        android:background="@color/colorRed"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/festivals"/>
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:src="@drawable/sandiego"
+        android:layout_gravity="center_horizontal"
+        android:scaleType="fitStart"/>
+
+</LinearLayout>

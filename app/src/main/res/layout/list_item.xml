@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal"
+    android:layout_width="match_parent"
+    android:layout_height="100dp"
+    android:background="@color/tan_background">
+
+    <ImageView
+        android:id="@+id/image"
+        android:layout_width="88dp"
+        android:layout_height="88dp" />
+
+    //This LinearLayout contains another layout with text views
+    <LinearLayout
+        android:id="@+id/text_container"
+        android:layout_width="match_parent"
+        android:layout_height="88dp"
+        android:orientation="vertical"
+        android:background="@color/colorAmber">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="25dp"
+            android:orientation="horizontal">
+            <TextView
+                android:id="@+id/name_text"
+                android:layout_width="wrap_content"
+                android:layout_height="25dp"
+                android:paddingLeft="16dp"
+                android:textStyle="bold"
+                android:text="Name"
+                android:gravity="center_vertical"/>
+
+            //This textview will contain either city or date information depending on category
+            <TextView
+                android:id="@+id/city_date_text"
+                android:layout_width="wrap_content"
+                android:layout_height="25dp"
+                android:text="City/Date"
+                android:gravity="center_vertical"/>
+        </LinearLayout>
+
+        <TextView
+            android:id="@+id/website_text"
+            android:layout_width="match_parent"
+            android:layout_height="18dp"
+            android:paddingLeft="16dp"
+            android:textStyle="italic"
+            android:text="www.website.com"
+            android:gravity="center_vertical"/>
+
+        <TextView
+            android:id="@+id/description_text"
+            android:layout_width="match_parent"
+            android:layout_height="45dp"
+            android:paddingLeft="16dp"
+            android:text="Description here"
+            android:gravity="center_vertical"/>
+
+    </LinearLayout>
+
+</LinearLayout>

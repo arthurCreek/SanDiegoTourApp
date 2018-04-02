@@ -1,0 +1,237 @@
+<resources>
+    <string name="app_name">San Diego Tour App</string>
+    
+    <!--Strings for the category titles-->
+    <string name="brewery">Brewery</string>
+    <string name="restaurant">Restaurant</string>
+    <string name="to_do">To-Do</string>
+    <string name="festivals">Festivals</string>
+    
+    <!--Brewery strings-->
+    <!--Alesmith-->
+    <string name="name_alesmith" translatable="false">Alesmith</string>
+    <string name="city_alesmith" translatable="false">Mira Mesa</string>
+    <string name="website_alesmith" translatable="false">www.alesmith.com</string>
+    <string name="popular_alesmith" translatable="false">Popular Beers: Speedway Stout, Alesmith IPA, Ale Smith Wee Heavy</string>
+    
+    <!--Alpine Beer company-->
+    <string name="name_alpine" translatable="false">Alpine Beer Company</string>
+    <string name="city_alpine" translatable="false">Alpine</string>
+    <string name="website_alpine" translatable="false">www.alpinebeerco.com</string>
+    <string name="popular_alpine" translatable="false">Popular Beers: Duet, Nelson, Pure Hopiness</string>
+    
+    <!--Society Brewing Company-->
+    <string name="name_societe" translatable="false">Societe Brewing Company</string>
+    <string name="city_societe" translatable="false">Clairmone</string>
+    <string name="website_societe" translatable="false">www.societebrewing.com</string>
+    <string name="popular_societe" translatable="false">Popular Beers: The Pupil, The Apprentice, The Butcher</string>
+    
+    <!--Pizza Port-->
+    <string name="name_pizza" translatable="false">Pizza Port</string>
+    <string name="city_pizza" translatable="false">Multiple Locations</string>
+    <string name="website_pizza" translatable="false">www.pizzaport.com</string>
+    <string name="popular_pizza" translatable="false">Popular Beers: Swami\'s IPA, Ponto Session IPA, Kook </string>
+    
+    <!--Karl Strauss-->
+    <string name="name_karl_strauss" translatable="false">Karl Strauss</string>
+    <string name="city_karl_strauss" translatable="false">Multiple Locations</string>
+    <string name="website_karl_strauss" translatable="false">www.karlstrauss.com</string>
+    <string name="popular_karl_strauss" translatable="false">Popular Beers: Mosaic Session IPA, Wreck Alley, Big Barrel Douple IPA</string>
+    
+    <!--Stone Brewing-->
+    <string name="name_stone" translatable="false">Stone Brewing</string>
+    <string name="city_stone" translatable="false">Multiple Locations</string>
+    <string name="website_stone" translatable="false">www.stonebrewing.com</string>
+    <string name="popular_stone" translatable="false">Popular Beers: Enjoy by IPA, Russian Imperial Stout, Stone Xoceveza</string>
+    
+    <!--Ballast Point-->
+    <string name="name_ballast_point" translatable="false">Ballast Point</string>
+    <string name="city_ballast_point" translatable="false">Multiple Locations</string>
+    <string name="website_ballast_point" translatable="false">www.ballastpoint.com</string>
+    <string name="popular_ballast_point" translatable="false">Popular Beers: Sculpin IPA, Victory at Sea, Dorado Double IPA</string>
+    
+    <!--The Lost Abbey-->
+    <string name="name_lost_abbey" translatable="false">The Lost Abbey</string>
+    <string name="city_lost_abbey" translatable="false">Multiple Locations</string>
+    <string name="website_lost_abbey" translatable="false">www.lostabbey.com</string>
+    <string name="popular_lost_abbey" translatable="false">Popular Beers: Duck Duck Geeze, Deliverance, Framboise de Amarosa</string>
+    
+    <!--Coronado Brewing Company-->
+    <string name="name_coronado" translatable="false">Coronado Brewing Company</string>
+    <string name="city_coronado" translatable="false">Multiple Locations</string>
+    <string name="website_coronado" translatable="false">www.coronadobrewing.com</string>
+    <string name="popular_coronado" translatable="false">Popular Beers: Idiot IPA, Stupid Stout, Sock Knocker</string>
+    
+    <!--Green Flash Brewing Company-->
+    <string name="name_green_flash" translatable="false">Green Flash Brewing Company</string>
+    <string name="city_green_flash" translatable="false">Mira Mesa</string>
+    <string name="website_green_flash" translatable="false">www.greenflashbrewing.com</string>
+    <string name="popular_green_flash" translatable="false">Popular Beers: West Coast IPA, Pale Ale Wrecker, Double Stout</string>
+
+    <!--Restaurant strings-->
+    <!--Phils BBQ-->
+    <string name="name_phils_bbq" translatable="false">Phil\'s BBQ</string>
+    <string name="city_phils_bbq" translatable="false">San Diego</string>
+    <string name="website_phils_bbq" translatable="false">philsbbq.net</string>
+    <string name="popular_phils_bbq" translatable="false">Ribs, Chicken, Beans</string>
+
+    <!--Chart House-->
+    <string name="name_chart_house" translatable="false">Chart House</string>
+    <string name="city_chart_house" translatable="false">Cardiff</string>
+    <string name="website_chart_house" translatable="false">www.chart-house/locations/cardiff/</string>
+    <string name="popular_chart_house" translatable="false">Coconut Shrimp, Clam Chowder, Prime Rib</string>
+
+    <!--CUCINA Urbana-->
+    <string name="name_cucina_urbana" translatable="false">CUCINA Urbana</string>
+    <string name="city_cucina_urbana" translatable="false">San Diego</string>
+    <string name="website_cucina_urbana" translatable="false">www.urbanakitchengroup.com/cucina-urbana-bankers-hill/</string>
+    <string name="popular_cucina_urbana" translatable="false">Short Rib Pappardelle, Squashed Blossoms, Truffle Fries</string>
+
+    <!--Urban Solace-->
+    <string name="name_urban_solace" translatable="false">Urban Solace</string>
+    <string name="city_urban_solace" translatable="false">North Park</string>
+    <string name="website_urban_solace" translatable="false">http://urbansolace.net</string>
+    <string name="popular_urban_solace" translatable="false">Warm Cheese Biscuits, Beef Cheek, Sweet Potato Fry</string>
+
+    <!--Cicciotti's Trattoria Italiana-->
+    <string name="name_cicciottis" translatable="false">Cicciotti\'s Trattoria Italiana</string>
+    <string name="city_cicciottis" translatable="false">Cardiff</string>
+    <string name="website_cicciottis" translatable="false">http://cicciottis.com/</string>
+    <string name="popular_cicciottis" translatable="false">Polpette &amp; Ricotta, Pennette alla Vodka, Cannolis</string>
+
+    <!--The Mission-->
+    <string name="name_mission" translatable="false">The Mission</string>
+    <string name="city_mission" translatable="false">San Diego</string>
+    <string name="website_mission" translatable="false">http://www.themissionsd.com/</string>
+    <string name="popular_mission" translatable="false">Pancakes, Chicken Apple Sausage, Rosemary Potatoes</string>
+
+    <!--Emiliano's Mexican Restaurant-->
+    <string name="name_emilianos" translatable="false">Emiliano\'s Mexican Restaurant</string>
+    <string name="city_emilianos" translatable="false">San Diego</string>
+    <string name="website_emilianos" translatable="false">http://www.emilianosrestaurant.com/</string>
+    <string name="popular_emilianos" translatable="false">Carnitas Burrito, Beer Fajitas, Chile Verde</string>
+
+    <!--Cafe Gratitude-->
+    <string name="name_cafe_gratitude" translatable="false">Cafe Gratitude</string>
+    <string name="city_cafe_gratitude" translatable="false">San Deigo</string>
+    <string name="website_cafe_gratitude" translatable="false">http://cafegratitude.com/</string>
+    <string name="popular_cafe_gratitude" translatable="false">Key Lime Pie, Open Hearted Pancakes, Fiero Burrito</string>
+
+    <!--Great Maple-->
+    <string name="name_great_maple" translatable="false">Great Maple</string>
+    <string name="city_great_maple" translatable="false">San Diego</string>
+    <string name="website_great_maple" translatable="false">http://thegreatmaple.com/</string>
+    <string name="popular_great_maple" translatable="false">Chilaquiles, Bacon Donues, Southern Popover</string>
+
+    <!--Costa Brava-->
+    <string name="name_costa_brava" translatable="false">Costa Brava</string>
+    <string name="city_costa_brava" translatable="false">San Diego</string>
+    <string name="website_costa_brava" translatable="false">http://costabravasd.com/</string>
+    <string name="popular_costa_brava" translatable="false">Patatas Bravas, Choricito Frito, Ox Tail</string>
+
+
+    <!--To-Do Strings-->
+    <!--Balboa Park-->
+    <string name="name_balboa_park" translatable="false">Balboa Park</string>
+    <string name="city_balboa_park" translatable="false">San Diego</string>
+    <string name="website_balboa_park" translatable="false">https://www.balboapark.org/</string>
+    <string name="description_balboa_park">Stroll the park, see art, history, and cultural events.</string>
+
+    <!--San Diego Zoo-->
+    <string name="name_san_diego_zoo" translatable="false">San Diego Zoo</string>
+    <string name="city_san_diego_zoo" translatable="false">San Diego</string>
+    <string name="website_san_diego_zoo" translatable="false">http://zoo.sandiegozoo.org/</string>
+    <string name="description_san_diego_zoo">Spend your day watching and learning about 650 different species.</string>
+
+    <!--Seaworld-->
+    <string name="name_seaworld" translatable="false">Seaworld</string>
+    <string name="city_seaworld" translatable="false">San Diego</string>
+    <string name="website_seaworld" translatable="false">https://seaworld.com/san-deigo/?utm_source=GMB</string>
+    <string name="description_seaworld">Visit the popular oceanarium and experience ocean wildlife.</string>
+
+    <!--Old Town San Diego State Historic Park-->
+    <string name="name_old_town" translatable="false">Old Town San Diego State Historic Park</string>
+    <string name="city_old_town" translatable="false">San Diego</string>
+    <string name="website_old_town" translatable="false">http://www.parks.ca.gov/?page_id=663</string>
+    <string name="description_old_town">Visit a part of San Diego\'s historic areas.</string>
+
+    <!--Seaport Village-->
+    <string name="name_seaport_village" translatable="false">Seaport Village</string>
+    <string name="city_seaport_village" translatable="false">San Deigo</string>
+    <string name="website_seaport_village" translatable="false">http://www.seaportvillage.com</string>
+    <string name="description_seaport_village">Waterfront shopping and dining under the sun.</string>
+
+    <!--Torrey Pines State Reserve-->
+    <string name="name_torrey_pines" translatable="false">Torrey Pines State Reserve</string>
+    <string name="city_torrey_pines" translatable="false">San Diego</string>
+    <string name="website_torrey_pines" translatable="false">https://torreypine.org</string>
+    <string name="description_torrey_pines">Visit one of San Diego County\'s beautiful State Reserves.</string>
+
+    <!--San Diego Air and Space Museum-->
+    <string name="name_air_and_space" translatable="false">San Deigo Air and Space Museum</string>
+    <string name="city_air_and_space" translatable="false">San Diego</string>
+    <string name="website_air_and_space" translatable="false">http://sandiegoairandspace.org</string>
+    <string name="description_air_and_space">San Diego\'s aviation and space museum!</string>
+
+    <!--Cabrillo National Monument-->
+    <string name="name_cabrillo" translatable="false">Cabrillo National Monument</string>
+    <string name="city_cabrillo" translatable="false">San Diego</string>
+    <string name="website_cabrillo" translatable="false">https://www.nps.gov/cabr/index.htm</string>
+    <string name="description_cabrillo">Discover the voyage of Juan Rodriguez Cabrillo</string>
+
+    <!--USS Midway Museum-->
+    <string name="name_uss_midway" translatable="false">USS Midway Museum</string>
+    <string name="city_uss_midway" translatable="false">San Diego</string>
+    <string name="website_uss_midway" translatable="false">http://www.midway.org/</string>
+    <string name="description_uss_midway">Visit the USS Midway aircraft carrier!</string>
+
+    <!--LEGOLAND California-->
+    <string name="name_legoland" translatable="false">LEGOLAND California</string>
+    <string name="city_legoland" translatable="false">Carlsbad</string>
+    <string name="website_legoland" translatable="false">https://www.legoland.com/california/</string>
+    <string name="description_legoland">Lego theme park, fun for the whole family.</string>
+
+    <!--Festival strings-->
+    <!--San Diego Brew & Food Festival-->
+    <string name="name_san_diego_brew_festival" translatable="false">San Diego Brew &amp; Food Festival</string>
+    <string name="date_san_diego_brew_festival">June 4</string>
+    <string name="website_san_diego_brew_festival" translatable="false">brewandfoodfest.com</string>
+    <string name="description_san_diego_brew_festival">Beer and food collide for a midday festival showcast!</string>
+
+    <!--Oysterfest-->
+    <string name="name_oysterfest" translatable="false">Oyseterfest</string>
+    <string name="date_oysterfest">June 17-18</string>
+    <string name="website_oysterfest" translatable="false">downtown.oysterfestsd.com</string>
+    <string name="description_oysterfest">Live music, beer, food, bayside views and oysters!</string>
+
+    <!--Del Mar Summer Solstice-->
+    <string name="name_del_mar_festival" translatable="false">Del Mar Summer Solstice</string>
+    <string name="date_del_mar_festival">June 23</string>
+    <string name="website_del_mar_festival" translatable="false">visitdelmarvillage.com</string>
+    <string name="description_del_mar_festival">A bountiful culinary showcase in Pacifica Del Mar</string>
+
+    <!--OB Street Fair and Chili Cook Off-->
+    <string name="name_ob_festival" translatable="false">OB Street Fair &amp; Chili Cook Off</string>
+    <string name="date_ob_festival">June 25</string>
+    <string name="website_ob_festival" translatable="false">oceanbeachsandiego.com</string>
+    <string name="description_ob_festival">Endless chili samplings, five stages of music, &amp; beachside beer garden!</string>
+
+    <!--Sun and Sea Festival-->
+    <string name="name_sun_and_sea_festival" translatable="false">Sun and Sea Festival</string>
+    <string name="date_sun_and_sean_festival">July 15-16</string>
+    <string name="website_sun_and_sea_festival" translatable="false">sunandseafestival.com</string>
+    <string name="description_sun_and_sea_festival">The original Imperial Beach and castle competition</string>
+
+    <!--Heroes Brew Craft Beer Fest-->
+    <string name="name_heroes_festival" translatable="false">Heroes Brew Craft Beer Fest</string>
+    <string name="date_heroes_festival">July 23</string>
+    <string name="website_heroes_festival" translatable="false">heroesbrewfest.com</string>
+    <string name="description_heroes_festival">Even super heroes need a beer break!  Comix-Con beer fest!</string>
+
+    <!--San Diego Bacon Fest-->
+    <string name="name_bacon_fest" translatable="false">San Diego Bacon Fest</string>
+    <string name="date_bacon_fest">September 23</string>
+    <string name="website_bacon_fest" translatable="false">sdbaconfest.com</string>
+    <string name="description_bacon_fest">There is no limit to bacon or beer samples!</string>
+
+</resources>
